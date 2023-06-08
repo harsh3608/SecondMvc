@@ -1,0 +1,12 @@
+﻿body{
+    background-color: darkslateblue;
+}
+
+.title {
+    color: black;
+    border: dashed;
+    border-color: orange;
+    text-align: center;
+    height:auto;
+    width: auto;
+}
